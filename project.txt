@@ -5,6 +5,7 @@ Github
 Php
 Mysql
 Laravel
+soft skill
 
 Menambahkan File Keladalam Github Disebut Push (git add)
 selanjutnya menandai file yang disebut commit (git commit)
